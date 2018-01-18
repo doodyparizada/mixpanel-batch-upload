@@ -1,0 +1,10 @@
+insert_id,user_id,event_type,time,session_id,app_version,platform,os_name,os_version,device_brand,device_manufacturer,device_model,carrier,language,ip
+2ea----------------------------435ad,a.......qa,wallet_tosagree_tapped,1.51264E+12,-1,11.40.0.19272-D,android,android,7,unknown,unknown,unknown,unknown,English,8.8.8.8
+d31----------------------------54720,h.......yyy,wallet_tosagree_tapped,1.51476E+12,-1,11.40.1.19323,android,android,8.1,unknown,unknown,unknown,unknown,English,8.8.8.8
+1a5----------------------------d0053,k.......sm,wallet_tosagree_tapped,1.51476E+12,-1,11.40.1.19323,android,android,6,unknown,unknown,unknown,unknown,English,8.8.8.8
+4dc----------------------------f517c,k.......8,wallet_tosagree_tapped,1.51475E+12,-1,11.40.1.19323,android,android,7,unknown,unknown,unknown,unknown,English,8.8.8.8
+c82----------------------------ef1bc,l.......qa,wallet_tosagree_tapped,1.51351E+12,-1,11.40.0.19272-D,android,android,8.1,unknown,unknown,unknown,unknown,English,8.8.8.8
+6d9----------------------------a756f,q.......,walletserver_tos_accepted,1.51505E+12,-1,unknown,server,server,unknown,unknown,unknown,unknown,unknown,English,8.8.8.8
+539----------------------------3eaaf,t.......12,wallet_creation_opened,1.51379E+12,-1,11.40.1.19323,android,android,7,unknown,unknown,unknown,unknown,English,8.8.8.8
+a76----------------------------d6c05,t.......12,wallet_creation_opened,1.51379E+12,-1,11.40.1.19323,android,android,7,unknown,unknown,unknown,unknown,English,8.8.8.8
+40e----------------------------4a0ec,i.......elestee,wallet_creation_opened,1.51442E+12,-1,11.40.1.19323,android,android,6,unknown,unknown,unknown,unknown,English,8.8.8.8
